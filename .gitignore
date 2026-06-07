@@ -27,7 +27,7 @@ bld/
 project.lock.json
 project.fragment.lock.json
 artifacts/
-
+TicketingSystem/appsettings.Development.json
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
