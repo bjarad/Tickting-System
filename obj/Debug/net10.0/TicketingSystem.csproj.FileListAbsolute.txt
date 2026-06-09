@@ -120,3 +120,13 @@
 /Users/home/TicketingSystem/TicketingSystem/obj/Debug/net10.0/TicketingSystem.pdb
 /Users/home/TicketingSystem/TicketingSystem/obj/Debug/net10.0/TicketingSystem.genruntimeconfig.cache
 /Users/home/TicketingSystem/TicketingSystem/obj/Debug/net10.0/ref/TicketingSystem.dll
+/Users/home/TicketingSystem/TicketingSystem/obj/Debug/net10.0/TicketingSystem.sourcelink.json
+/Users/home/TicketingSystem/TicketingSystem/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/home/TicketingSystem/TicketingSystem/bin/Debug/net10.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/home/TicketingSystem/TicketingSystem/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/home/TicketingSystem/TicketingSystem/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/home/TicketingSystem/TicketingSystem/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/Users/home/TicketingSystem/TicketingSystem/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/Users/home/TicketingSystem/TicketingSystem/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/home/TicketingSystem/TicketingSystem/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/Users/home/TicketingSystem/TicketingSystem/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
